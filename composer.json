@@ -1,0 +1,15 @@
+{
+    "name": "mmcgrathrsd/boomi-sync-my-orders",
+    "description": "This is a lambda function for syncing boomi orders for a user",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike McGrath",
+            "email": "mike.mcgrath@rallysportdirect.com"
+        }
+    ],
+    "require": {
+        "popcorn/lambda": "^1.0"
+    }
+}

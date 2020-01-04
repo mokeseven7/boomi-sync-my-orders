@@ -1,0 +1,15 @@
+{
+    "name": "mmcgrathrsd/boomi-sync-my-orders-lambda",
+    "description": "a lambda to sync orders from boomi to algolia",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike McGrath",
+            "email": "mike.mcgrath@rallysportdirect.com"
+        }
+    ],
+    "require": {
+        "popcorn/beans": "^1.0"
+    }
+}
